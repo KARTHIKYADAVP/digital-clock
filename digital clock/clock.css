@@ -1,0 +1,30 @@
+#maindiv{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 100%;
+   /* background-image: url(./images-removebg-preview\ \(4\).png);
+      background-repeat:no-repeat
+      background-size: cover; 
+     */
+   
+}
+
+/*  #body{
+    background-image: url(./images-removebg-preview\ \(4\).png);
+    background-repeat: no-repeat;
+   
+}  */
+
+#a{
+    color: red;
+    margin-top: 50px;
+}
+
+#b{
+    margin-top: 50px;
+}
+
+#c{
+    color: orange;
+}
